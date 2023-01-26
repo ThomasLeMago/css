@@ -1,0 +1,23 @@
+.stick-bottom-left {
+    position: fixed;
+    bottom: 2%;
+    left: 2%;
+}
+
+.stick-bottom-right {
+    position: fixed;
+    bottom: 2%;
+    right: 2%;
+}
+
+.stick-top-right {
+    position: fixed;
+    top: 2%;
+    right: 2%;
+}
+
+.stick-top-left {
+    position: fixed;
+    top: 2%;
+    left: 2%;
+}

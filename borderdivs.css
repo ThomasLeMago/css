@@ -1,0 +1,27 @@
+div.bordered-div {
+    border: solid white;
+    border-radius: 25px;
+}
+
+div.bordered-div.pad {
+    padding: 30px;
+}
+
+div.bordered-div.black {
+    border: solid black;
+}
+
+div.bordered-div.green {
+    border: solid green;
+    border-radius: 25px;
+}
+
+div.bordered-div.yellow {
+    border: solid yellow;
+    border-radius: 25px;
+}
+
+div.bordered-div.blue {
+    border: solid blue;
+    border-radius: 25px;
+}
