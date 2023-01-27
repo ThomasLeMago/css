@@ -7,21 +7,21 @@ div.bordered-div.pad {
     padding: 30px;
 }
 
-div.bordered-div.black {
+div.bordered-div.div-black {
     border: solid black;
 }
 
-div.bordered-div.green {
+div.bordered-div.div-green {
     border: solid green;
     border-radius: 25px;
 }
 
-div.bordered-div.yellow {
+div.bordered-div.div-yellow {
     border: solid yellow;
     border-radius: 25px;
 }
 
-div.bordered-div.blue {
+div.bordered-div.div-blue {
     border: solid blue;
     border-radius: 25px;
 }

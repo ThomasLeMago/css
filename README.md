@@ -12,10 +12,10 @@ This sheet allows you to quickly create simple, but nice looking divs
     
     
 The above creates a white border which can be changed with the classes:
-- black
-- yellow
-- green
-- blue
+- div-black
+- div-yellow
+- div-green
+- div-blue
 
 The div can be padded using the class **pad**
 
