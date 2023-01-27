@@ -15,7 +15,8 @@ h1.title {
 }
 
 h1.title:hover {
-    text-decoration: underline;
+    text-decoration: underline coral;
+    cursor: none;
 }
 
 .sheets {

@@ -17,7 +17,7 @@ The above creates a white border which can be changed with the classes:
 - div-green
 - div-blue
 
-The div can be padded using the class **pad**
+The div can be padded using the class **pad**, the background can be filled using **fill**
 
 # Buttons
 
