@@ -1,0 +1,19 @@
+.ipt-text{
+    background: #f5f5f0;
+    border-radius: 5px;
+    font-family: system-ui;
+    padding: 5px;
+}
+
+.ipt-text.ipt-dark {
+    background: #2D2D2D;
+    color: white;
+}
+
+.ipt-text.ipt-borderless{
+    border: none;
+}
+
+.ipt-text.ipt-nopad{
+    padding: 0;
+}
