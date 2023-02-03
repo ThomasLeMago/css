@@ -42,3 +42,14 @@
     background-color: orangered;
     border: solid orangered;
 }
+
+.btn.btn-white{
+    background-color: white;
+    color: black;
+    border: solid white;
+}
+
+.btn.btn-white:active {
+    background-color: gray;
+    border: solid gray;
+}
