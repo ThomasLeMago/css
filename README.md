@@ -11,7 +11,7 @@ This sheet allows you to quickly create simple, but nice looking divs
     </div>
     
     
-The above creates a white border which can be changed with the classes:
+The above creates a white border which can be changed with the classes (default is white):
 - div-black
 - div-yellow
 - div-green
@@ -32,6 +32,7 @@ It's color can be changed using the following classes:
 - btn-black
 - btn-blue
 - btn-coral
+- btn-white
 
 # Positions
 
